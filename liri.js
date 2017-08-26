@@ -83,3 +83,7 @@ var music = function() {
 		})
 }
 
+// omdb function
+var movies = function() {
+	
+}
