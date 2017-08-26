@@ -1,13 +1,15 @@
 {
   "name": "08-week-08-liri",
   "version": "1.0.0",
-  "description": "Uses Spotify to answer user inquiries",
+  "description": "",
   "main": "liri.js",
   "dependencies": {
     "inquirer": "^3.2.2",
+    "node-spotify-api": "^1.0.7",
     "request": "^2.81.0",
     "spotify": "^0.3.0",
-    "spotify-web-api-node": "^2.4.0"
+    "spotify-web-api-node": "^2.4.0",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
